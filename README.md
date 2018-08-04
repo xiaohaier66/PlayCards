@@ -8,3 +8,4 @@ PlayCards
 --
   *  Class Poker abstracts the properties of a single card.
   *  Class Pokers abstracts the attributes of a deck of CARDS (52 CARDS by default).
+  *  Class Machine provides a class for testing.
